@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/B4lla5" target="blank">
+  <a href="https://twitter.com/B4llaa" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark">
   </a>
   <a href="https://www.discord.com/users/717285207455301703 " target="_blank">
