@@ -13,7 +13,7 @@
 <p align="center">
   <samp>
     <br>
-    I am a young full stack developer
+    Ein?
     <br>
     <b>Spain</b>
     <br>
