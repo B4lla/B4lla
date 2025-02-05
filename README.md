@@ -47,7 +47,7 @@
 ## Knowledges
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql,py&theme=dark&perline=6">
-  <img src="https://skillicons.dev/icons?i=codepen,figma,linux,ps&theme=dark">
+  <img src="https://skillicons.dev/icons?i=codepen,figma,linux&theme=dark">
 </div>
 <br />
 
