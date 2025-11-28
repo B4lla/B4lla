@@ -13,8 +13,6 @@
 <p align="center">
   <samp>
     <br>
-    Ein?
-    <br>
     <b>Spain</b>
     <br>
   </samp>
@@ -36,7 +34,7 @@
 
   ✌️ &emsp; Enjoy to develop and learn <br /><br />
   ❤️ &emsp; Love to writing code and learning new features<br /><br />
-  💬 &emsp; Actual project [Pressure Shop](https://pressure-shop.tebex.io/)
+  💬 &emsp; Actual project [Pressure Shop](https://pressureshop.tebex.io/)
 
 </p>
 
@@ -46,8 +44,8 @@
 
 ## Knowledges
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql,py&theme=dark&perline=6">
-  <img src="https://skillicons.dev/icons?i=codepen,figma,linux&theme=dark">
+  <img src="https://skillicons.dev/icons?i=java,php,js,lua,vue,mysql,py&theme=dark&perline=6">
+  <img src="https://skillicons.dev/icons?i=jquery,html,css,tailwind,figma,linux,cloudflare,docker,aws&theme=dark">
 </div>
 <br />
 
