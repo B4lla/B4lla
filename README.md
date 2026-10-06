@@ -185,6 +185,6 @@ My goal is to combine these areas with my existing experience building full-stac
 ### Elsewhere
 
 [![GitHub](https://img.shields.io/badge/GitHub-B4lla-181717?style=flat-square&logo=github)](https://github.com/B4lla)
-[![YouTube](https://img.shields.io/badge/YouTube-Pressure-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@pressure_shio)
+[![YouTube](https://img.shields.io/badge/YouTube-Pressure-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@pressure_shop)
 
 </div>
